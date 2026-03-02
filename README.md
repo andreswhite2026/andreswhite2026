@@ -1,16 +1,27 @@
-## Hi there 👋
+HELLO WORLD🌏👋
 
-<!--
-**andreswhite2026/andreswhite2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😁I'am 16 years old, My name is Andres Felipe Blanco Centeno I'am very creative and for this reason i started in Riwi because it's about programming and English. is aboutof programming.too.
 
-Here are some ideas to get you started:
+🎮My hobbies are playing videogames🎮 and slepping😴💤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐘I adore animals, specialy dogs🐶 and cats🐱
+
+👷I consider myself a person perseverant and worker👷
+
+📚I like learning new things and research about them📚✏️
+
+                       My First comand
+                          is this:
+
+Print("Hello World")
+
+                       My Second comand
+                          is this:
+
+year = input("Pleaase, Enter your year of birthday:")
+
+year = int(year)
+
+age = 2026-year
+
+Print("You are", age,)
